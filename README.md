@@ -9,7 +9,7 @@ I'm **Dharshini J**, a  **MERN Stack Developer** passionate about learning and b
 - 💡 Interested in **Web Development & Open Source**  
 - 🎯 Goal: To become a skilled full-stack developer  
 - 📫 Reach me at: **jdharshu03@gmail.com**  
-
+- 🌐 Portfolio: [My Website]((http://dharshinij-portfolio.vercel.app))
 ---
 
 ## 🔧 Tech Stack  
@@ -22,6 +22,7 @@ I'm **Dharshini J**, a  **MERN Stack Developer** passionate about learning and b
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+
 
 
 
