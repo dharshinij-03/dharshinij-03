@@ -1,30 +1,80 @@
-# 👋 Hey there! Welcome to my GitHub  
+# 👋 Hi, I'm Dharshini J!
 
-I'm **Dharshini J**, a  **MERN Stack Developer** passionate about learning and building full-stack web applications. 🚀  
+### 🚀 Aspiring Full-Stack Developer | MERN Stack | Java
+
+I'm passionate about building web applications, learning new technologies, and solving real-world problems through technology. I enjoy exploring full-stack development and continuously improving my skills.
 
 ---
 
-## 🌱 About Me  
-- 🌱 Currently learning **React.js, Node.js & MongoDB ,Express.js**  
-- 💡 Interested in **Web Development & Open Source**  
-- 🎯 Goal: To become a skilled full-stack developer  
-- 📫 Reach me at: **jdharshu03@gmail.com**  
+## 🌱 About Me
+
+- 💻 Aspiring **Full-Stack Developer**
+- 🌱 Currently learning **React.js, Node.js, Express.js & MongoDB**
+- ☕ Also working with **Java and Data Structures & Algorithms**
+- 🤖 Interested in **AI-powered applications and modern web development**
+- 💡 Passionate about learning, building, and participating in hackathons
+- 🎯 Goal: To become a skilled **Software Engineer**
+- 📫 Reach me at: **jdharshu03@gmail.com**
 - 🌐 Portfolio: [Visit My Portfolio](http://dharshinij-portfolio.vercel.app)
 
-## 🔧 Tech Stack  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☕ Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
+## 📚 Currently Learning
 
+- 🌐 Advanced **React.js**
+- ⚙️ **Node.js & Express.js**
+- 🗄️ **MongoDB**
+- ☕ **Java & Data Structures**
+- 🤖 **AI-powered Web Applications**
 
+---
 
+## 📊 GitHub Stats
 
+![Dharshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharshinij-03&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshinij-03&layout=compact&theme=tokyonight)
 
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dharshinij-03&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** jdharshu03@gmail.com  
+🌐 **Portfolio:** [Visit My Portfolio](http://dharshinij-portfolio.vercel.app)  
+💻 **GitHub:** [@dharshinij-03](https://github.com/dharshinij-03)
+
+---
+
+### ⭐ Learning, Building, and Growing Every Day!
