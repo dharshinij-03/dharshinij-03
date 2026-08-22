@@ -54,17 +54,7 @@ Aspiring Full-Stack Developer | Java | MERN Stack | AI Enthusiast
 - 🤖 **AI-powered Web Applications**
 
 ---
-## 📊 GitHub Stats
 
-![Dharshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharshinij-03&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharshinij-03&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dharshinij-03&theme=tokyonight)
 
 ## 🤝 Connect With Me
 
