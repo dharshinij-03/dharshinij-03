@@ -51,7 +51,6 @@ I'm passionate about building web applications, learning new technologies, and s
 - 🤖 **AI-powered Web Applications**
 
 ---
-
 ## 📊 GitHub Stats
 
 ![Dharshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharshinij-03&show_icons=true&theme=tokyonight)
@@ -63,7 +62,6 @@ I'm passionate about building web applications, learning new technologies, and s
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dharshinij-03&theme=tokyonight)
-
 ---
 
 ## 🤝 Connect With Me
