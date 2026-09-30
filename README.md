@@ -17,7 +17,7 @@ Aspiring Full-Stack Developer | Java | MERN Stack | AI Enthusiast
 - 🤖 Interested in **AI-powered applications and modern web development**
 - 💡 Passionate about learning, building, and participating in hackathons
 - 🎯 Goal: To become a skilled **Software Engineer**
-- 📫 Reach me at: **jdharshu03@gmail.com**
+- 📫 Reach me at: **dharshinijambu03@gmail.com**
 - 🌐 Portfolio: [Visit My Portfolio](http://dharshinij-portfolio.vercel.app)
 
 ## 🛠️ Tech Stack
